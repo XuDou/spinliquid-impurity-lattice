@@ -1,2 +1,2 @@
 # spinliquid-impurity-lattice
-mathematica code for this paper
+Backup Mathematica code for the paper: https://arxiv.org/abs/1602.01477
